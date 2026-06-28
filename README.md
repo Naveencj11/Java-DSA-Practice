@@ -1,14 +1,36 @@
 # Java DSA Practice
 
-This repository contains Java programs and Data Structures practice problems.
+Welcome to my Java DSA Practice repository.
+
+## About
+
+This repository contains Java interview programs and Data Structures & Algorithms practice.
 
 ## Topics Covered
+
+- Basic Programs
 - Arrays
 - Strings
-- Loops
-- Functions
-- OOP Concepts
-- Exception Handling
+- Object-Oriented Programming (OOP)
+
+## Technologies Used
+
+- Java
+- Git
+- GitHub
+
+## Repository Structure
+
+```
+Java-DSA-Practice
+├── BasicPrograms
+├── Arrays
+├── Strings
+└── OOP
+```
 
 ## Author
-Naveen
+
+**Naveen**
+
+Currently learning Java, Spring Boot, and SQL to become a Java Backend Developer.
